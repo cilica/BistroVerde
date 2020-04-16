@@ -1,7 +1,7 @@
 {
-  "name": "Grecko Bar & Restaurant",
-  "short_name": "Grecko",
-  "description": "Free Bootstrap Website Template",
+  "name": "Bistro Verde",
+  "short_name": "Verde",
+  "description": "Catering in zona Ploiesti",
   "icons": [{
     "src": "media/brand/logo-512x512.png",
     "sizes": "512x512",
